@@ -1,6 +1,6 @@
 class BankAccount
     def initialize
-        @balance = 0
+        @balance = 100
     end
 
     def balance
