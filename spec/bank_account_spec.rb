@@ -24,7 +24,4 @@ describe 'bank account class' do
 
         expect(bank.balance).to eql(50)
     end
-
-    # it 'should be able to view balance when requested' do
-    # end
 end
